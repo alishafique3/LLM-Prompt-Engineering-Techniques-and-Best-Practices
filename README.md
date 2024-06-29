@@ -63,15 +63,20 @@ Avoid a single broad prompt, be specific, descriptive, and as detailed as possib
 ![third_technique_1](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/94d1bf79-0a6d-4cc0-9753-eed4d41156ae)
 ![third_technique_2](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/bbf0561a-226a-4b41-bf76-260271c6d827)
 
-## 4. Avoid “fluffy” descriptions
+### 4. Avoid “fluffy” descriptions
 It means that when providing instructions or queries to a language model or AI system, you should avoid vague, ambiguous, or overly general language. Instead, you should use clear, specific, and precise language that communicates what you want the model to do or generate.
 
 ![fourth_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/3e1095f2-8be7-47e8-b8c6-f627e314da1d)
 
-## 5. Instead of just saying what not to do, say what to do instead
+### 5. Instead of just saying what not to do, say what to do instead
 It means providing clear guidance when formulating prompts or instructions for language models. Rather than solely emphasizing what should be avoided or prohibited in a prompt, because it can lead to countless imprecise outputs.
 
 ![fifth_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/752fc12d-8e19-444c-b86f-fb05ea76cb24)
+
+### 6. Articulate the desired output format
+It refers to clearly defining and communicating how you want the response or output to be structured and formatted from a language model. This involves specifying the exact characteristics, layout, and details of the output that you expect.
+
+![sixth_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/834d5a8a-ee11-4e08-b577-5e173a5f18e5)
 
 
 
