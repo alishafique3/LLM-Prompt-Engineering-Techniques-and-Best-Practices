@@ -6,5 +6,6 @@ Artificial Intelligence (AI) is the branch of computer science focused on creati
 ### Generative AI: 
 It is a type of artificial intelligence that can create new content, such as text, images, music, or videos, by learning patterns from large datasets. Unlike traditional AI, which might classify data or make predictions, generative AI can produce original outputs similar to human creations. Examples include writing essays, generating art, composing music, and creating realistic simulations. Generative AI models, like large language models (LLMs), are guided by human instructions to produce the desired text (e.g. "Give me 5 ice cream flavors"). The following image shows the Venn diagram of artificial intelligence and its subfields: highlighting Generative AI.
 
-![GenAI](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/15e1f07a-0e89-41de-9d91-1eb12ed47249)
+![GenAI](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/8bda3422-8a17-4946-ab72-8791627a539a)
+
 
