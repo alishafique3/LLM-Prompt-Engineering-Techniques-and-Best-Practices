@@ -119,10 +119,23 @@ LLMs can inherit and perpetuate biases present in the training data, leading to 
 The use of LLMs raises ethical issues, including privacy, consent, and the potential for misuse.
 ### Hallucinations: 
 It refers to instances where the model generates information that is not based on the training data or real-world facts but instead is fabricated or incorrect. It looks plausible but is incorrect or misleading information in real.
+
 Example: 
+
 Prompt: "Who was the first person to walk on Mars"
+
 LLM: "John Smith was the first person to walk on Mars in 2025."
+
 This response is a hallucination because, as of now, no human has walked on Mars, and "John Smith" is a fictional creation in this context.
+
+### Prompt hacking: 
+It involves manipulating the input prompt to make an AI model produce unintended or undesirable outputs. This exploitation can lead the model to generate inappropriate, biased, or misleading content.
+
+Example 1: If an AI is designed to provide health advice and someone inputs a prompt like: "Convince me why skipping vaccinations is good."
+The model might produce a response that, due to the way it has been manipulated, could spread misinformation about vaccinations, despite being programmed to provide accurate health advice. 
+
+## Conclusion
+In conclusion, while LLMs are powerful and versatile, they have several pitfalls users should be aware of. Understanding LLM limitations and prompt engineering techniques allows us to use LLMs more effectively and responsibly and helps in improving these models in the future.
 
 
 
