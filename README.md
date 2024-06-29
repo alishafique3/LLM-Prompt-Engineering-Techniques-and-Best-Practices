@@ -87,6 +87,9 @@ Few-shot prompting is a technique where an AI model is given a few examples of a
 
 To get desired results, always start with zero-shot, then a few-shot, If neither of them works, then fine-tune.
 
+### 8. Chain of thoughts
+It refers to the model's ability to generate a sequence of coherent and logically connected ideas or responses based on a given prompt. LLMs excel at generating text that follows a natural flow of ideas, leveraging their training on vast amounts of text data to predict and generate contextually relevant sequences.
+
 ### 9. Role Prompting:
 It is a technique used in working with AI models, where the user specifies a role or perspective for the AI to adopt while generating responses. This helps guide the AI to produce outputs that are more relevant and contextually appropriate for the given task.
 
