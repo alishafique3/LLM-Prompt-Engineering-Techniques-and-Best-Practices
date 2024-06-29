@@ -63,7 +63,7 @@ Users can interact with these AI models in countless ways and these powerful AI 
 ## Practices and Techniques of Prompt Engineering:
 Here are some key practices and techniques:
 ### 1. Use the latest model
-For optimal results, we recommend using the latest LLM model versions. Newer models are typically efficient and easy for prompt engineering.
+For optimal results, it is recommended to use the latest LLM model versions. Newer models are typically efficient and easy for prompt engineering.
 
 ![model_prices](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/b161ac25-66a2-4d67-839e-d6840ec185cb)
 
