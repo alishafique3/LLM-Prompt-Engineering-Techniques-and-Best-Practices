@@ -90,6 +90,28 @@ To get desired results, always start with zero-shot, then a few-shot, If neither
 ### 9. Role Prompting:
 It is a technique used in working with AI models, where the user specifies a role or perspective for the AI to adopt while generating responses. This helps guide the AI to produce outputs that are more relevant and contextually appropriate for the given task.
 
+![ninth_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/bed830f1-f4d8-479e-ba6d-a607f1dd66dc)
+
+### 10. Style Prompting
+Style prompting involves instructing a language model or AI system to generate text in a specific writing style or tone. Here are a few examples of style prompting:
+
+- Formal Style:
+Prompt: "Write a formal letter introducing our company's new product line."
+- Casual or Informal Style:
+Prompt: "Write a blog post about the best cafes in town, using a casual tone."
+- Technical or Academic Style:
+Prompt: "Compose an abstract summarizing the findings of our research paper on renewable energy technologies."
+- Narrative or Storytelling Style:
+Prompt: "Create a short story about a character who discovers a hidden treasure in an ancient temple."
+- Persuasive or Marketing Style:
+Prompt: "Draft a promotional email persuading customers to subscribe to our new service, using compelling language."
+- Humorous or Satirical Style:
+Prompt: "Write a humorous tweet about the challenges of working from home during a snowstorm."
+- Poetic or Literary Style:
+Prompt: "Compose a poem inspired by the theme of solitude and reflection."
+Each of these examples directs the language model to generate text that adheres to a specific style or tone, allowing for versatile applications across different forms of communication and content creation.
+
+
 
 
 
