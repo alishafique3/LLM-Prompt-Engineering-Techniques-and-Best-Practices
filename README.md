@@ -47,4 +47,10 @@ Prompt applications involve providing a structured input or query (often in the 
 
 ![applications](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/780bd4f4-43fb-4adc-a93b-2eebca3cb3c2)
 
+### Use the latest model
+For optimal results, we recommend using the latest LLM model versions. Newer models are typically efficient and easy for prompt engineering.
+
+![model_prices](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/30d96e02-5fb9-48ab-a5f1-29b588459ab2)
+
+
 
