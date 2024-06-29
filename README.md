@@ -26,7 +26,7 @@ LLMs use techniques such as deep learning and transformers to process and genera
 
 ![llm_prompting](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/6f0039ab-07b8-4743-b117-babdb248ec03)
 
-Let's take an example to see how LLMs work. It is a classification task in natural language processing (NLP). In this task, the objective is to determine the most likely word that follows a given sequence of words. For example, if the input sequence is "The cat likes to sleep in the," the model predicts the next word, such as "box," based on the context and patterns in the data.
+Let's take an example to see how LLMs work. Consider a classification task in natural language processing (NLP). In this task, the objective is to determine the most likely word that follows a given sequence of words. For example, if the input sequence is "The cat likes to sleep in the," the model predicts the next word, such as "box," based on the context and patterns in the data.
 
 This task involves:
 - Input: A sequence of words or tokens.
