@@ -78,6 +78,7 @@ It refers to clearly defining and communicating how you want the response or out
 
 ![sixth_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/834d5a8a-ee11-4e08-b577-5e173a5f18e5)
 
+### 7. Zero Shot Prompting and Few Shot Prompting
 
 
 
