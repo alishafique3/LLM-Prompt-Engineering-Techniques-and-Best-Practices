@@ -107,10 +107,10 @@ Few-shot prompting is a technique where an AI model is given a few examples of a
 
 To get desired results, always start with zero-shot, then a few-shot, If neither of them works, then fine-tune.
 
-### 8. Chain of Thought Prompting: Guiding LLMs Step-by-Step ([source](https://www.mercity.ai/blog-post/guide-to-chain-of-thought-prompting#what-is-chain-of-thought-prompting))
+### 8. Chain of Thought (CoT) Prompting: Guiding LLMs Step-by-Step ([source](https://www.mercity.ai/blog-post/guide-to-chain-of-thought-prompting#what-is-chain-of-thought-prompting))
 It refers to the model's ability to generate a sequence of coherent and logically connected ideas or responses based on a given prompt. LLMs excel at generating text that follows a natural flow of ideas, leveraging their training on vast amounts of text data to predict and generate contextually relevant sequences.
 
-Zero-shot CoT involves appending "Let's think step by step" to the original prompt, utilizing two prompts to derive reasoning and answers.
+[Zero-shot CoT](https://arxiv.org/abs/2205.11916) involves appending "Let's think step by step" to the original prompt, utilizing two prompts to derive reasoning and answers.
 - Reasoning Extraction: In this step, the language model generates a chain of reasoning leading to the answer. The model is given a prompt that includes the question and the trigger sentence, "Let's think step by step." The model then produces a sentence explaining the reasoning process.
 - Answer Extraction: In the second step, we extract the final answer from the model's response. We concatenate the prompt, the generated reasoning sentence, and the trigger sentence, "The answer is." This instructs the model to provide the final answer, which it generates in response.
 
@@ -120,7 +120,7 @@ Zero-shot CoT involves appending "Let's think step by step" to the original prom
 
 
 
-Few-shot CoT is better at improving how well LLMs reason than the few-shot baseline because it gives them examples of similar problems to learn from. It can be harder to set up because you need to create example prompts. However, the benefits of few-shot CoT are worth the complexity.
+[Few-shot CoT](https://arxiv.org/abs/2305.14045) is better at improving how well LLMs reason than the few-shot baseline because it gives them examples of similar problems to learn from. It can be harder to set up because you need to create example prompts. However, the benefits of few-shot CoT are worth the complexity.
 
 ![cot2](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/8274ff14-cf77-4c0f-a80a-1df8f80ab657)
 
