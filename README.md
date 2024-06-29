@@ -140,11 +140,11 @@ In conclusion, while LLMs are powerful and versatile, they have several pitfalls
 ![summary](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/50ac4917-b56d-41cd-9149-b651612c0fa0)
 
 ## References:
-1. Best practices for prompt engineering with the OpenAI API [Link](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api#h_3b464d0013)
-2. What is Prompt Engineering? [Link](https://aws.amazon.com/what-is/prompt-engineering/)
-3. Moving from Completions to Chat Completions in the OpenAI API [Link](https://help.openai.com/en/articles/7042661-moving-from-completions-to-chat-completions-in-the-openai-api)
-4. Prompt Engineering Guide [Link](https://learnprompting.org/docs/intermediate/chain_of_thought )
-5. What is Prompt Engineering? A Detailed Guide For 2024 [Link](https://www.datacamp.com/blog/what-is-prompt-engineering-the-future-of-ai-communication )
+1. Best practices for prompt engineering with the OpenAI API [Link: https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api#h_3b464d0013]
+2. What is Prompt Engineering? [Link: https://aws.amazon.com/what-is/prompt-engineering/]
+3. Moving from Completions to Chat Completions in the OpenAI API [Link: https://help.openai.com/en/articles/7042661-moving-from-completions-to-chat-completions-in-the-openai-api]
+4. Prompt Engineering Guide [Link: https://learnprompting.org/docs/intermediate/chain_of_thought ]
+5. What is Prompt Engineering? A Detailed Guide For 2024 [Link: https://www.datacamp.com/blog/what-is-prompt-engineering-the-future-of-ai-communication ]
 
 
 
