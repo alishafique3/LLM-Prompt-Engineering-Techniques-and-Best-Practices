@@ -31,6 +31,7 @@ This task involves:
 - Output: Prediction of the next word in the sequence.
 - Approach: It is treated as a classification problem where the model assigns probabilities to each possible word in its vocabulary, selecting the word with the highest probability as the prediction.
 
-![classification_task](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/459069c4-40bd-4131-a04b-a22321dd9e6a)
+![Picture5](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/3758a443-8baf-41b9-ae54-47b0f20945ca)
+
 
 
