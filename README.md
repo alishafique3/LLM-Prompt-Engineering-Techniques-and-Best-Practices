@@ -116,6 +116,9 @@ Zero-shot CoT involves appending "Let's think step by step" to the original prom
 
 Few-shot CoT is better at improving how well LLMs reason than the few-shot baseline because it gives them examples of similar problems to learn from. It can be harder to set up because you need to create example prompts. However, the benefits of few-shot CoT are worth the complexity.
 
+![cot2](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/8274ff14-cf77-4c0f-a80a-1df8f80ab657)
+
+
 ### 9. Role Prompting:
 It is a technique used in working with AI models, where the user specifies a role or perspective for the AI to adopt while generating responses. This helps guide the AI to produce outputs that are more relevant and contextually appropriate for the given task.
 
