@@ -50,6 +50,11 @@ Prompt applications involve providing a structured input or query (often in the 
 ![applications](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/35316754-a619-44bc-aa00-91a06c316d30)
 
 ### Issues with Prompting:
+To understand the issues with prompting, let's take an example (source) in which We will prompt the LLM to craft a marketing tweet for our new, fictional AI product: ArchaeologistAI, which narrates stories about renowned archaeologists. On the left side of the image given below, the tweet is not accurate because ArchaeologistAI only tells stories and does not make discoveries. However, this isn't the LLM's fault, as it had no prior information about ArchaeologistAI. It can be corrected by giving more details about ArchaeologistAI on the right side of the image.
+
+![issues](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/f109da15-aa7a-4e67-a2a4-abb83d500f73)
+
+This refining process of prompt is called prompt engineering. Let's discuss this term in more detail.
 
 ### What is prompt engineering?
 Large language models (LLMs) are very flexible and can do many things like summarizing documents, completing sentences, answering questions, and translating languages. They generate the best output based on their training when given specific user input.
