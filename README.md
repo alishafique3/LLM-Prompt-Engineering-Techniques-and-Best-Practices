@@ -47,10 +47,20 @@ Prompt applications involve providing a structured input or query (often in the 
 
 ![applications](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/780bd4f4-43fb-4adc-a93b-2eebca3cb3c2)
 
-### Use the latest model
+### 1. Use the latest model
 For optimal results, we recommend using the latest LLM model versions. Newer models are typically efficient and easy for prompt engineering.
 
 ![model_prices](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/30d96e02-5fb9-48ab-a5f1-29b588459ab2)
+
+### 2. Separate instruction and context/input text
+Place instructions at the beginning of the prompt and use ### or """ to separate the instructions from the input text. This type of prompting is also called instructional prompting.
+
+![second_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/7c88a162-92f4-45b3-a47d-eabe0f8dc97f)
+
+### 3. Be Specific and descriptive
+Avoid a single broad prompt, be specific, descriptive, and as detailed as possible about the desired context.
+
+
 
 
 
