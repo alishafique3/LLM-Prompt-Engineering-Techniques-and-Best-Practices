@@ -33,5 +33,5 @@ This task involves:
 
 ![Picture5](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/3758a443-8baf-41b9-ae54-47b0f20945ca)
 
-
+![detailed_flowchart](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/5ba4b044-1ed1-40e2-881c-ffb33d9e0f25)
 
