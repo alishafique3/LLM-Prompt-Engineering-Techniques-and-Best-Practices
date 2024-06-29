@@ -35,3 +35,16 @@ This task involves:
 
 ![detailed_flowchart](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/5ba4b044-1ed1-40e2-881c-ffb33d9e0f25)
 
+## Prompt Applications:
+Prompt applications involve providing a structured input or query (often in the form of text) to instruct a language model on what kind of response or action is desired. Prompts can be used across various applications such as:
+
+- Text Generation: Generating coherent paragraphs, stories, or summaries based on a given prompt.
+- Creative Writing: Generating poetry, dialogues, or other creative content.
+- Translation: Prompting a model to translate a specific sentence or passage from one language to another.
+- Data Analysis: Using prompts to query and analyze datasets or generate insights.
+- Customer Service: Generating responses to customer queries or support tickets.
+- Programming: Generating code snippets based on a given prompt or task description.
+
+![applications](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/780bd4f4-43fb-4adc-a93b-2eebca3cb3c2)
+
+
