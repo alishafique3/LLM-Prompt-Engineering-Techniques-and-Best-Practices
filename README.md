@@ -33,6 +33,8 @@ This task involves:
 
 ![Picture5](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/ad329087-4eaa-4e30-be1f-289d34609ad2)
 
+Another example showcasing the detailed workings of an LLM:
+
 ![detailed_flowchart](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/d040a56b-6a7a-4bf2-8d46-c4007168d532)
 
 ## What is Prompting:
