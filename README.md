@@ -111,6 +111,21 @@ Prompt: "Write a humorous tweet about the challenges of working from home during
 Prompt: "Compose a poem inspired by the theme of solitude and reflection."
 Each of these examples directs the language model to generate text that adheres to a specific style or tone, allowing for versatile applications across different forms of communication and content creation.
 
+## Advance Prompting Concepts: Flaws of LLMs
+Large Language Models (LLMs) are powerful tools that have transformed technology, impacting areas like customer service and content creation. However, they have their flaws. Understanding these pitfalls is essential for effective use and mitigation. This article explores common issues with LLMs, such as bias, ethical concerns, hallucinations, math errors, and prompt hacking.
+### Bias: 
+LLMs can inherit and perpetuate biases present in the training data, leading to unfair or discriminatory outputs. It includes sexist, racist, or homophobic content too.
+### Ethical Concerns: 
+The use of LLMs raises ethical issues, including privacy, consent, and the potential for misuse.
+### Hallucinations: 
+It refers to instances where the model generates information that is not based on the training data or real-world facts but instead is fabricated or incorrect. It looks plausible but is incorrect or misleading information in real.
+Example: 
+Prompt: "Who was the first person to walk on Mars"
+LLM: "John Smith was the first person to walk on Mars in 2025."
+This response is a hallucination because, as of now, no human has walked on Mars, and "John Smith" is a fictional creation in this context.
+
+
+
 
 
 
