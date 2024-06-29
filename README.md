@@ -8,7 +8,7 @@ It is a type of artificial intelligence that can create new content, such as tex
 
 ![GenAI](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/0b91693a-2fb2-4aad-aa1b-9df41097cbd0)
 
-Large Language Models refer to a type of artificial intelligence model designed to understand and generate human-like text based on vast amounts of data it has been trained on (e.g. "Give me 5 ice cream flavors"). The following list shows popular large language models developed by various companies and organizations:
+Large Language Models refer to a type of artificial intelligence model designed to understand and generate human-like text based on vast amounts of data it has been trained on, for example, "Give me 5 ice cream flavors". The following list shows popular large language models developed by various companies and organizations:
 - OpenAI - GPT-4
 - Google – Gemini
 - Microsoft - Turing NLG
