@@ -6,8 +6,7 @@ Artificial Intelligence (AI) is the branch of computer science focused on creati
 ### Generative AI: 
 It is a type of artificial intelligence that can create new content, such as text, images, music, or videos, by learning patterns from large datasets. Unlike traditional AI, which might classify data or make predictions, generative AI can produce original outputs similar to human creations. Examples include writing essays, generating art, composing music, and creating realistic simulations. Generative AI models, like large language models (LLMs), are guided by human instructions to produce the desired text. The following image shows the Venn diagram of artificial intelligence and its subfields: highlighting Generative AI.
 
-![GenAI](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/94926b7f-a889-4536-baf4-0cda620d14b4)
-
+![GenAI](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/0b91693a-2fb2-4aad-aa1b-9df41097cbd0)
 
 Large Language Models refer to a type of artificial intelligence model designed to understand and generate human-like text based on vast amounts of data it has been trained on (e.g. "Give me 5 ice cream flavors"). The following list shows popular large language models developed by various companies and organizations:
 - OpenAI - GPT-4
@@ -23,7 +22,7 @@ Large Language Models refer to a type of artificial intelligence model designed 
 
 LLMs use techniques such as deep learning and transformers to process and generate natural language text, enabling applications like language translation, chatbots, and text summarization. These models have significantly advanced natural language processing capabilities, making them pivotal in various fields including healthcare, customer service, and content generation.
 
-![llm_prompting](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/ba3478d8-0879-422b-8dac-1e2cee50a072)
+![llm_prompting](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/e62fccb8-136b-4bb4-a635-48d3164b1d78)
 
 Let's take an example to see how LLMs work. It is a classification task in natural language processing (NLP). In this task, the objective is to determine the most likely word that follows a given sequence of words. For example, if the input sequence is "The cat likes to sleep in the," the model predicts the next word, such as "box," based on the context and patterns in the data.
 
