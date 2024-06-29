@@ -78,14 +78,14 @@ It means providing clear guidance when formulating prompts or instructions for l
 ### 6. Articulate the desired output format:
 It refers to clearly defining and communicating how you want the response or output to be structured and formatted from a language model. This involves specifying the exact characteristics, layout, and details of the output that you expect.
 
-![sixth_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/834d5a8a-ee11-4e08-b577-5e173a5f18e5)
+![sixth_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/1eb3b4a4-9463-49cb-adae-9578c905ddfc)
 
 ### 7. Zero-Shot Prompting and Few-Shot Prompting:
 Zero-shot prompting is a technique where an AI model is given a task without any prior specific examples or additional training on that task. The model relies solely on its general knowledge and understanding to generate a response.
 
 Few-shot prompting is a technique where an AI model is given a few examples of a task within the prompt to help it understand what is expected before generating a response. These examples serve as a guide for the model to follow.
 
-![seventh_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/eb709e6f-5c49-4e86-b266-ceb4242d6f73)
+![seventh_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/fc16181c-1a53-40e6-8b7f-ee7988f9e042)
 
 To get desired results, always start with zero-shot, then a few-shot, If neither of them works, then fine-tune.
 
@@ -95,7 +95,7 @@ It refers to the model's ability to generate a sequence of coherent and logicall
 ### 9. Role Prompting:
 It is a technique used in working with AI models, where the user specifies a role or perspective for the AI to adopt while generating responses. This helps guide the AI to produce outputs that are more relevant and contextually appropriate for the given task.
 
-![ninth_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/bed830f1-f4d8-479e-ba6d-a607f1dd66dc)
+![ninth_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/6d18a21c-97da-48ac-ab73-a64b5f6b6740)
 
 ### 10. Style Prompting
 Style prompting involves instructing a language model or AI system to generate text in a specific writing style or tone. Here are a few examples of style prompting:
@@ -142,7 +142,7 @@ The model might produce a response that, due to the way it has been manipulated,
 ## Conclusion
 In conclusion, while LLMs are powerful and versatile, they have several pitfalls users should be aware of. Understanding LLM limitations and prompt engineering techniques allows us to use LLMs more effectively and responsibly and helps in improving these models in the future.
 
-![summary](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/50ac4917-b56d-41cd-9149-b651612c0fa0)
+![summary](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/f7a85ec0-5497-4d64-8470-fe7aa17ec577)
 
 ## References:
 1. Best practices for prompt engineering with the OpenAI API [Link: https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api#h_3b464d0013]
