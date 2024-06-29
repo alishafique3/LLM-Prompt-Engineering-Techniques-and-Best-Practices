@@ -147,8 +147,18 @@ This response is a hallucination because, as of now, no human has walked on Mars
 ### Prompt hacking: 
 It involves manipulating the input prompt to make an AI model produce unintended or undesirable outputs. This exploitation can lead the model to generate inappropriate, biased, or misleading content.
 
-Example 1: If an AI is designed to provide health advice and someone inputs a prompt like: "Convince me why skipping vaccinations is good."
+Example: If an AI is designed to provide health advice and someone inputs a prompt like: "Convince me why skipping vaccinations is good."
+
 The model might produce a response that, due to the way it has been manipulated, could spread misinformation about vaccinations, despite being programmed to provide accurate health advice. 
+
+### Math: 
+Large Language Models (LLMs) can struggle with solving mathematical problems accurately. They might misinterpret symbols, make calculation errors, or provide inconsistent answers because they don't inherently understand math as humans do; they generate responses based on patterns in the training data.
+
+Example: Suppose you ask an LLM: What is the integral of $𝑥^2$?
+
+The model might answer: The integral of $𝑥^2$ is $2𝑥$
+
+However, the correct answer is: $𝑥^3/3+𝐶$ This response is incorrect
 
 ## Conclusion
 In conclusion, while LLMs are powerful and versatile, they have several pitfalls users should be aware of. Understanding LLM limitations and prompt engineering techniques allows us to use LLMs more effectively and responsibly and helps in improving these models in the future.
