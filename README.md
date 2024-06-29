@@ -8,7 +8,7 @@ It is a type of artificial intelligence that can create new content, such as tex
 
 ![GenAI](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/8bda3422-8a17-4946-ab72-8791627a539a)
 
-The following list shows popular large language models developed by various companies and organizations:
+LLM stands for Large Language Model. It refers to a type of artificial intelligence model designed to understand and generate human-like text based on vast amounts of data it has been trained on. The following list shows popular large language models developed by various companies and organizations:
 - OpenAI - GPT-4
 - Google – Gemini
 - Microsoft - Turing NLG
@@ -19,3 +19,8 @@ The following list shows popular large language models developed by various comp
 - Cohere - Command R
 - IBM - Watson NLP
 - Hugging Face - BLOOM (BigScience Large Open-science Open-access Multilingual Language Model)
+LLMs use techniques such as deep learning and transformers to process and generate natural language text, enabling applications like language translation, chatbots, and text summarization. These models have significantly advanced natural language processing capabilities, making them pivotal in various fields including healthcare, customer service, and content generation.
+
+![llm_prompting](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/ba3478d8-0879-422b-8dac-1e2cee50a072)
+
+
