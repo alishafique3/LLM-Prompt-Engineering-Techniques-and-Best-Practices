@@ -55,10 +55,19 @@ For optimal results, we recommend using the latest LLM model versions. Newer mod
 ### 2. Separate instruction and context/input text
 Place instructions at the beginning of the prompt and use ### or """ to separate the instructions from the input text. This type of prompting is also called instructional prompting.
 
-![second_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/7c88a162-92f4-45b3-a47d-eabe0f8dc97f)
+![second_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/5cd54f84-cb5c-4998-ac56-8e6ce06e37b6)
 
 ### 3. Be Specific and descriptive
 Avoid a single broad prompt, be specific, descriptive, and as detailed as possible about the desired context.
+![third_technique_1](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/94d1bf79-0a6d-4cc0-9753-eed4d41156ae)
+![third_technique_2](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/bbf0561a-226a-4b41-bf76-260271c6d827)
+
+## 4. Avoid “fluffy” descriptions
+It means that when providing instructions or queries to a language model or AI system, you should avoid vague, ambiguous, or overly general language. Instead, you should use clear, specific, and precise language that communicates what you want the model to do or generate.
+![fourth_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/3e1095f2-8be7-47e8-b8c6-f627e314da1d)
+
+
+
 
 
 
