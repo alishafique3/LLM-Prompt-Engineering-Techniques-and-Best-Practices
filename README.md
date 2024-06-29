@@ -114,6 +114,12 @@ Zero-shot CoT involves appending "Let's think step by step" to the original prom
 - Reasoning Extraction: In this step, the language model generates a chain of reasoning leading to the answer. The model is given a prompt that includes the question and the trigger sentence, "Let's think step by step." The model then produces a sentence explaining the reasoning process.
 - Answer Extraction: In the second step, we extract the final answer from the model's response. We concatenate the prompt, the generated reasoning sentence, and the trigger sentence, "The answer is." This instructs the model to provide the final answer, which it generates in response.
 
+![cot1](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/3be2c5eb-768a-4c5f-9832-5c464b536d00)
+
+![cot3](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/3397ab15-87f7-4892-b0e8-2ca7e25de83e)
+
+
+
 Few-shot CoT is better at improving how well LLMs reason than the few-shot baseline because it gives them examples of similar problems to learn from. It can be harder to set up because you need to create example prompts. However, the benefits of few-shot CoT are worth the complexity.
 
 ![cot2](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/8274ff14-cf77-4c0f-a80a-1df8f80ab657)
