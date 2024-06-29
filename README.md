@@ -49,7 +49,7 @@ Prompt applications involve providing a structured input or query (often in the 
 
 ### Issues with Prompting:
 
-### What is Prompting Engineering?
+### What is prompt engineering?
 Large language models (LLMs) are very flexible and can do many things like summarizing documents, completing sentences, answering questions, and translating languages. They generate the best output based on their training when given specific user input.
 Users can interact with these AI models in countless ways and these powerful AI models don't need much to start creating content; even a single word can produce a detailed response. Therefore, not all inputs lead to useful outputs. Generative AI systems need context and detailed information to produce accurate and relevant responses. Prompt engineering involves refining prompts continuously until you achieve the desired results from the AI system. This process is especially helpful when basic prompts aren't effective.
 
