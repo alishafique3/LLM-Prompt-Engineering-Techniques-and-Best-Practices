@@ -85,7 +85,7 @@ Zero-shot prompting is a technique where an AI model is given a task without any
 
 Few-shot prompting is a technique where an AI model is given a few examples of a task within the prompt to help it understand what is expected before generating a response. These examples serve as a guide for the model to follow.
 
-![seventh_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/fc16181c-1a53-40e6-8b7f-ee7988f9e042)
+![seventh_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/ca00f7a5-364e-46e7-a7fe-3a7e9cddcd33)
 
 To get desired results, always start with zero-shot, then a few-shot, If neither of them works, then fine-tune.
 
@@ -95,7 +95,7 @@ It refers to the model's ability to generate a sequence of coherent and logicall
 ### 9. Role Prompting:
 It is a technique used in working with AI models, where the user specifies a role or perspective for the AI to adopt while generating responses. This helps guide the AI to produce outputs that are more relevant and contextually appropriate for the given task.
 
-![ninth_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/6d18a21c-97da-48ac-ab73-a64b5f6b6740)
+![ninth_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/c1117aee-b1ff-442c-8422-1cfa25a4bc33)
 
 ### 10. Style Prompting
 Style prompting involves instructing a language model or AI system to generate text in a specific writing style or tone. Here are a few examples of style prompting:
