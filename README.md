@@ -137,6 +137,14 @@ The model might produce a response that, due to the way it has been manipulated,
 ## Conclusion
 In conclusion, while LLMs are powerful and versatile, they have several pitfalls users should be aware of. Understanding LLM limitations and prompt engineering techniques allows us to use LLMs more effectively and responsibly and helps in improving these models in the future.
 
+![summary](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/50ac4917-b56d-41cd-9149-b651612c0fa0)
+
+## References:
+1. asd
+2. asad
+3. asad
+
+
 
 
 
