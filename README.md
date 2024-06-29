@@ -46,6 +46,8 @@ Prompt applications involve providing a structured input or query (often in the 
 
 ## Issues with Prompting:
 
+## Practices and Techniques of Prompt Engineering:
+
 ### 1. Use the latest model
 For optimal results, we recommend using the latest LLM model versions. Newer models are typically efficient and easy for prompt engineering.
 
