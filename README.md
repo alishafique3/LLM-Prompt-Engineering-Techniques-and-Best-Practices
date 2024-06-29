@@ -8,4 +8,14 @@ It is a type of artificial intelligence that can create new content, such as tex
 
 ![GenAI](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/8bda3422-8a17-4946-ab72-8791627a539a)
 
-
+The following list shows popular large language models developed by various companies and organizations:
+- OpenAI - GPT-4
+- Google – Gemini
+- Microsoft - Turing NLG
+- Facebook (Meta) - LLaMA (Large Language Model Meta AI)
+- Anthropic – Claude
+- Amazon – AlexaTM
+- Baidu – ERNIE
+- Cohere - Command R
+- IBM - Watson NLP
+- Hugging Face - BLOOM (BigScience Large Open-science Open-access Multilingual Language Model)
