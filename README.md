@@ -129,6 +129,9 @@ Each of these examples directs the language model to generate text that adheres 
 
 ## Advance Prompting Concepts: Flaws of LLMs
 Large Language Models (LLMs) are powerful tools that have transformed technology, impacting areas like customer service and content creation. However, they have their flaws. Understanding these pitfalls is essential for effective use and mitigation. This article explores common issues with LLMs, such as bias, ethical concerns, hallucinations, math errors, and prompt hacking.
+
+![llm_flaws](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/edc3df56-1cdb-4983-95b4-ca906eb6241b)
+
 ### Bias: 
 LLMs can inherit and perpetuate biases present in the training data, leading to unfair or discriminatory outputs. It includes sexist, racist, or homophobic content too.
 ### Ethical Concerns: 
