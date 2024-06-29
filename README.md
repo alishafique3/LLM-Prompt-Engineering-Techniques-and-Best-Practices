@@ -39,12 +39,12 @@ This task involves:
 A prompt is a natural language text that requests generative AI models (LLMs) to perform a specific task. Using a prompt to instruct an AI to do a task is called prompting. 
 ![prompting](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/edcd1b06-e71d-438b-bbe7-46de740177a9)
 
-## Prompt Applications:
+### Prompt Applications:
 Prompt applications involve providing a structured input or query (often in the form of text) to instruct a language model on what kind of response or action is desired. Prompts can be used across various applications such as:
 
 ![applications](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/780bd4f4-43fb-4adc-a93b-2eebca3cb3c2)
 
-## Issues with Prompting:
+### Issues with Prompting:
 
 ## Practices and Techniques of Prompt Engineering:
 
