@@ -21,7 +21,7 @@ Large Language Models refer to a type of artificial intelligence model designed 
 - Hugging Face - BLOOM (BigScience Large Open-science Open-access Multilingual Language Model)
 
 LLMs use techniques such as deep learning and transformers to process and generate natural language text, enabling applications like language translation, chatbots, and text summarization. These models have significantly advanced natural language processing capabilities, making them pivotal in various fields including healthcare, customer service, and content generation, adapted from [image](https://medium.com/@SymeCloud/a-brief-understanding-of-prompt-engineering-b176ba9fb2ba
-)![image](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/da6f0028-1bf8-42c5-9914-c92e410f4862).
+).
 
 
 ![llm_prompting](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/6f0039ab-07b8-4743-b117-babdb248ec03)
