@@ -35,7 +35,7 @@ This task involves:
 
 ![Picture5](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/ad329087-4eaa-4e30-be1f-289d34609ad2)
 
-Another example showcasing the detailed workings of an LLM [image source](https://towardsdatascience.com/language-model-training-and-inference-from-concept-to-code-483cf9b305ef):
+Another example showcasing the detailed working process of an LLM [image source](https://towardsdatascience.com/language-model-training-and-inference-from-concept-to-code-483cf9b305ef):
 
 ![detailed_flowchart](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/d040a56b-6a7a-4bf2-8d46-c4007168d532)
 
@@ -186,7 +186,7 @@ The model might answer: The integral of $𝑥^2$ is $2𝑥$
 However, the correct answer is: $𝑥^3/3+𝐶$ This response is incorrect
 
 ## Conclusion
-In conclusion, while LLMs are powerful and versatile, they have several pitfalls users should be aware of. Understanding LLM limitations and prompt engineering techniques allows us to use LLMs more effectively and responsibly and helps in improving these models in the future.
+In conclusion, while LLMs are powerful and versatile, they have several pitfalls users should be aware of. Understanding LLM limitations and prompt engineering techniques allows the user to use LLMs more effectively and responsibly.
 
 ![summary](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/f7a85ec0-5497-4d64-8470-fe7aa17ec577)
 
