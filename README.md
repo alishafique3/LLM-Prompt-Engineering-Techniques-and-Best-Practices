@@ -52,28 +52,28 @@ Prompt applications involve providing a structured input or query (often in the 
 ### 1. Use the latest model
 For optimal results, we recommend using the latest LLM model versions. Newer models are typically efficient and easy for prompt engineering.
 
-![model_prices](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/30d96e02-5fb9-48ab-a5f1-29b588459ab2)
+![model_prices](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/b161ac25-66a2-4d67-839e-d6840ec185cb)
 
 ### 2. Separate instruction and context/input text
 Place instructions at the beginning of the prompt and use ### or """ to separate the instructions from the input text. This type of prompting is also called instructional prompting.
 
-![second_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/5cd54f84-cb5c-4998-ac56-8e6ce06e37b6)
+![second_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/00b1743e-b9a9-4da8-a40b-1ef984f35178)
 
 ### 3. Be Specific and descriptive
 Avoid a single broad prompt, be specific, descriptive, and as detailed as possible about the desired context.
 
-![third_technique_1](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/94d1bf79-0a6d-4cc0-9753-eed4d41156ae)
-![third_technique_2](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/bbf0561a-226a-4b41-bf76-260271c6d827)
+![third_technique_1](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/cb086e69-c3c7-4ac9-b6c7-35da82259ba6)
+![third_technique_2](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/30374add-6d0d-4d6a-a9b9-7d991c7e4e37)
 
 ### 4. Avoid “fluffy” descriptions
 It means that when providing instructions or queries to a language model or AI system, you should avoid vague, ambiguous, or overly general language. Instead, you should use clear, specific, and precise language that communicates what you want the model to do or generate.
 
-![fourth_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/3e1095f2-8be7-47e8-b8c6-f627e314da1d)
+![fourth_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/50ccff4b-2f5c-4367-a952-3c207a72b3ca)
 
 ### 5. Instead of just saying what not to do, say what to do instead
 It means providing clear guidance when formulating prompts or instructions for language models. Rather than solely emphasizing what should be avoided or prohibited in a prompt, because it can lead to countless imprecise outputs.
 
-![fifth_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/752fc12d-8e19-444c-b86f-fb05ea76cb24)
+![fifth_technique](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/cf45e1bd-0665-4377-9114-3cd2a349d6e3)
 
 ### 6. Articulate the desired output format:
 It refers to clearly defining and communicating how you want the response or output to be structured and formatted from a language model. This involves specifying the exact characteristics, layout, and details of the output that you expect.
