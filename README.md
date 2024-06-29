@@ -19,8 +19,18 @@ LLM stands for Large Language Model. It refers to a type of artificial intellige
 - Cohere - Command R
 - IBM - Watson NLP
 - Hugging Face - BLOOM (BigScience Large Open-science Open-access Multilingual Language Model)
+
 LLMs use techniques such as deep learning and transformers to process and generate natural language text, enabling applications like language translation, chatbots, and text summarization. These models have significantly advanced natural language processing capabilities, making them pivotal in various fields including healthcare, customer service, and content generation.
 
 ![llm_prompting](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/ba3478d8-0879-422b-8dac-1e2cee50a072)
+
+Let's take an example of predicting the next word in a sequence. It is a classification task in natural language processing (NLP). In this task, the objective is to determine the most likely word that follows a given sequence of words. For example, if the input sequence is "The cat sat on the," the model predicts the next word, such as "mat," based on the context and patterns in the data.
+
+This task involves:
+- Input: A sequence of words or tokens.
+- Output: Prediction of the next word in the sequence.
+- Approach: It is treated as a classification problem where the model assigns probabilities to each possible word in its vocabulary, selecting the word with the highest probability as the prediction.
+
+![classification_task](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/459069c4-40bd-4131-a04b-a22321dd9e6a)
 
 
