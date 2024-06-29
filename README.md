@@ -20,7 +20,7 @@ Large Language Models refer to a type of artificial intelligence model designed 
 - IBM - Watson NLP
 - Hugging Face - BLOOM (BigScience Large Open-science Open-access Multilingual Language Model)
 
-LLMs use techniques such as deep learning and transformers to process and generate natural language text, enabling applications like language translation, chatbots, and text summarization. These models have significantly advanced natural language processing capabilities, making them pivotal in various fields including healthcare, customer service, and content generation, adapted from [image](https://medium.com/@SymeCloud/a-brief-understanding-of-prompt-engineering-b176ba9fb2ba
+LLMs use techniques such as deep learning and transformers to process and generate natural language text, enabling applications like language translation, chatbots, and text summarization. These models have significantly advanced natural language processing capabilities, making them pivotal in various fields including healthcare, customer service, and content generation. The following image is adapted from the [link](https://medium.com/@SymeCloud/a-brief-understanding-of-prompt-engineering-b176ba9fb2ba
 ).
 
 
