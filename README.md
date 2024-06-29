@@ -22,7 +22,7 @@ Large Language Models refer to a type of artificial intelligence model designed 
 
 LLMs use techniques such as deep learning and transformers to process and generate natural language text, enabling applications like language translation, chatbots, and text summarization. These models have significantly advanced natural language processing capabilities, making them pivotal in various fields including healthcare, customer service, and content generation.
 
-![llm_prompting](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/e62fccb8-136b-4bb4-a635-48d3164b1d78)
+![llm_prompting](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/6f0039ab-07b8-4743-b117-babdb248ec03)
 
 Let's take an example to see how LLMs work. It is a classification task in natural language processing (NLP). In this task, the objective is to determine the most likely word that follows a given sequence of words. For example, if the input sequence is "The cat likes to sleep in the," the model predicts the next word, such as "box," based on the context and patterns in the data.
 
@@ -31,18 +31,19 @@ This task involves:
 - Output: Prediction of the next word in the sequence.
 - Approach: It is treated as a classification problem where the model assigns probabilities to each possible word in its vocabulary, selecting the word with the highest probability as the prediction as shown below.
 
-![Picture5](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/3758a443-8baf-41b9-ae54-47b0f20945ca)
+![Picture5](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/ad329087-4eaa-4e30-be1f-289d34609ad2)
 
-![detailed_flowchart](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/5ba4b044-1ed1-40e2-881c-ffb33d9e0f25)
+![detailed_flowchart](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/d040a56b-6a7a-4bf2-8d46-c4007168d532)
 
 ## What is Prompting:
 A prompt is a natural language text that requests generative AI models (LLMs) to perform a specific task. Using a prompt to instruct an AI to do a task is called prompting. 
-![prompting](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/edcd1b06-e71d-438b-bbe7-46de740177a9)
+
+![prompting](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/e9b53a5a-07fb-47ee-bc78-92681a6c7022)
 
 ### Prompt Applications:
 Prompt applications involve providing a structured input or query (often in the form of text) to instruct a language model on what kind of response or action is desired. Prompts can be used across various applications such as:
 
-![applications](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/780bd4f4-43fb-4adc-a93b-2eebca3cb3c2)
+![applications](https://github.com/alishafique3/LLM-Prompt-Engineering-Techniques-and-Best-Practices/assets/17300597/96ac08a9-4c87-4c73-989b-01086f8f4a62)
 
 ### Issues with Prompting:
 
