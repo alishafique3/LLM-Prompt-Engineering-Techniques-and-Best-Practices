@@ -197,6 +197,7 @@ In conclusion, while LLMs are powerful and versatile, they have several pitfalls
 4. Prompt Engineering Guide [Link: https://learnprompting.org/docs/intermediate/chain_of_thought ]
 5. What is Prompt Engineering? A Detailed Guide For 2024 [Link: https://www.datacamp.com/blog/what-is-prompt-engineering-the-future-of-ai-communication ]
 6. Comprehensive Guide to Chain-of-Thought Prompting [Link: https://www.mercity.ai/blog-post/guide-to-chain-of-thought-prompting#what-is-chain-of-thought-prompting]
+7. Tree of Thought prompting [Link: https://cameronrwolfe.substack.com/p/tree-of-thoughts-prompting] 
 
 
 
